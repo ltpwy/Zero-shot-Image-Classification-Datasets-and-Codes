@@ -54,25 +54,25 @@ Below is a summary of commonly used datasets for traditional/generalized zero-sh
 | CC-ZSL                    | TCSVT2023   | [PDF](https://ieeexplore.ieee.org/document/10040702)       | [Code](https://github.com/KORIYN/CC-ZSL)      |
 | I2mvformer                | CVPR2023    | [PDF](https://openaccess.thecvf.com/content/CVPR2023/html/Naeem_I2MVFormer_Large_Language_Model_Generated_Multi-View_Document_Supervision_for_Zero-Shot_CVPR_2023_paper.html)       | [Code](https://github.com/ferjad/I2DFormer) |
 | CVAE-ZSL                  | NeurIPS2015 | [PDF](https://proceedings.neurips.cc/paper/2015/hash/8d55a249e6baa5c06772297520da2051-Abstract.html)       | [Code](https://github.com/ucals/cvae)      |
-| f-CLSWGAN                   | CVPR2018    | [PDF](https://openaccess.thecvf.com/content_cvpr_2018/html/Xian_Feature_Generating_Networks_CVPR_2018_paper.html)       | Not avaliable     |
-| c-CLSWGAN                   | ECCV2018    | [PDF](https://openaccess.thecvf.com/content_ECCV_2018/html/RAFAEL_FELIX_Multi-modal_Cycle-consistent_Generalized_ECCV_2018_paper.html)       | [Code](https://github.com/rfelixmg/frwgan-eccv18)      |
+| f-CLSWGAN                 | CVPR2018    | [PDF](https://openaccess.thecvf.com/content_cvpr_2018/html/Xian_Feature_Generating_Networks_CVPR_2018_paper.html)       | Not avaliable     |
+| c-CLSWGAN                 | ECCV2018    | [PDF](https://openaccess.thecvf.com/content_ECCV_2018/html/RAFAEL_FELIX_Multi-modal_Cycle-consistent_Generalized_ECCV_2018_paper.html)       | [Code](https://github.com/rfelixmg/frwgan-eccv18)      |
 | LisGAN                    | CVPR2019    | [PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Leveraging_the_Invariant_Side_of_Generative_Zero-Shot_Learning_CVPR_2019_paper.pdf)       | [Code](https://github.com/lijin118/LisGAN)      |
-| F-VAEGAN-D2                   | CVPR2019    | [PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xian_F-VAEGAN-D2_A_Feature_Generating_Framework_for_Any-Shot_Learning_CVPR_2019_paper.pdf)       |   Not avaliable  |
-| TF-VAEGAN                     | ECCV2020    | [PDF](https://link.springer.com/chapter/10.1007/978-3-030-58542-6_29)       | [Code](https://github.com/akshitac8/tfvaegan)      |
+| F-VAEGAN-D2               | CVPR2019    | [PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xian_F-VAEGAN-D2_A_Feature_Generating_Framework_for_Any-Shot_Learning_CVPR_2019_paper.pdf)       |   Not avaliable  |
+| TF-VAEGAN                 | ECCV2020    | [PDF](https://link.springer.com/chapter/10.1007/978-3-030-58542-6_29)       | [Code](https://github.com/akshitac8/tfvaegan)      |
 | E-PGN                     | CVPR2020    | [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yu_Episode-Based_Prototype_Generating_Network_for_Zero-Shot_Learning_CVPR_2020_paper.pdf)       | Not avaliable      |
 | IZF                       | ECCV2020    | [PDF](https://link.springer.com/chapter/10.1007/978-3-030-58517-4_36)       | [Code](https://github.com/miguelvalente/Invertible-Zero-Shot-Recognition-Flows)      |
 | VAE-cFlow                 | CVPR2020    | [PDF](https://arxiv.org/pdf/2009.00303)       | [Code](https://github.com/guyuchao/VAE-cFlow-ZSL)      |
-| Zero-VAE-GAN                   | TIP2020     | [PDF](https://ieeexplore.ieee.org/document/8957359)       | Not avaliable      |
+| Zero-VAE-GAN              | TIP2020     | [PDF](https://ieeexplore.ieee.org/document/8957359)       | Not avaliable      |
 | SDGZSL                    | ICCV2021    | [PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Semantics_Disentangling_for_Generalized_Zero-Shot_Learning_ICCV_2021_paper.pdf)       | [Code](https://github.com/uqzhichen/SDGZSL)      |
 | SCGZSL                    | ICCV2021    | [PDF](https://openaccess.thecvf.com/content/ICCV2021W/CVAMD/html/Mahapatra_Medical_Image_Classification_Using_Generalized_Zero_Shot_Learning_ICCVW_2021_paper.html)       | Not avaliable      |
 | LISEC                     | ACCV2022    | [PDF](https://openaccess.thecvf.com/content/ACCV2022/papers/Zhao_Learning_Internal_Semantics_with_Expanded_Categories_for_Generative_Zero-Shot_Learning_ACCV_2022_paper.pdf)       | Not avaliable     |
 | DAA                       | PRL2023     | [PDF](https://www.sciencedirect.com/science/article/abs/pii/S0167865523000041)       | Not avaliable     |
 | DAA&SPOT                  | CVPR2023    | [PDF](https://openaccess.thecvf.com/content/CVPR2023W/TCV/papers/Gowda_Synthetic_Sample_Selection_for_Generalized_Zero-Shot_Learning_CVPRW_2023_paper.pdf)       | Not avaliable      |
 | $DUET(2)$                 | TIP2019     | [PDF](https://ieeexplore.ieee.org/document/8879688)       | Not avaliable      |
-| CADA-VAE                  | CVPR2019    | [PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Schonfeld_Generalized_Zero-_and_Few-Shot_Learning_via_Aligned_Variational_Autoencoders_CVPR_2019_paper.pdf)       | [Code](https://github.com/edgarschnfld/CADA-VAE-PyTorch)                    |
+| CADA-VAE                  | CVPR2019    | [PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Schonfeld_Generalized_Zero-_and_Few-Shot_Learning_via_Aligned_Variational_Autoencoders_CVPR_2019_paper.pdf)       | [Code](https://github.com/edgarschnfld/CADA-VAE-PyTorch)|
 | CE-GZSL                   | CVPR2021    | [PDF](https://arxiv.org/abs/2103.16173)       | [Code](https://github.com/Hanzy1996/CE-GZSL)      |
 | DCA-VAE                   | Cybern2022  | [PDF](https://ieeexplore.ieee.org/document/9762888)       | Not avaliable|      |
-| ESA                     | ICASSP2023  | [PDF](https://arxiv.org/abs/2303.09849)       | [Code](https://github.com/mrflogs/icassp23)      |
+| ESA                       | ICASSP2023  | [PDF](https://arxiv.org/abs/2303.09849)       | [Code](https://github.com/mrflogs/icassp23)      |
 
 
 
