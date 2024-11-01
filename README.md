@@ -25,20 +25,20 @@ Below is a summary of commonly used datasets for traditional/generalized zero-sh
 | IAP                       | CVPR2009    | [PDF](https://ieeexplore.ieee.org/abstract/document/5206594)| [Link](#) |
 | DEVISE                    | NeurIPS2013 | [PDF](https://proceedings.neurips.cc/paper/2013/hash/7cce53cf90577442771720a370c3c723-Abstract.html)  | [Code](https://github.com/middleyuan/DeViSE)      |
 | ALE                       | CVPR2013    | [PDF](https://www.cv-foundation.org/openaccess/content_cvpr_2013/html/Akata_Label-Embedding_for_Attribute-Based_2013_CVPR_paper.html)      | [Code](https://github.com/cetinsamet/attribute-label-embedding)      |
-| CMT                       | NeurIPS2013  |[PDF](https://proceedings.neurips.cc/paper/2013/hash/2d6cc4b2d139a53512fb8cbb3086ae2e-Abstract.html)      | [Link](#)      |
-| RT-ZSL                    | NeurIPS2014 | [PDF]( https://proceedings.neurips.cc/paper/2014/hash/1f1baa5b8edac74eb4eaa329f14a0361-Abstract.html)| [Link](#)      |
+| CMT                       | NeurIPS2013  |[PDF](https://proceedings.neurips.cc/paper/2013/hash/2d6cc4b2d139a53512fb8cbb3086ae2e-Abstract.html)      | [Code](https://github.com/mganjoo/zslearning)      |
+| RT-ZSL                    | NeurIPS2014 | [PDF]( https://proceedings.neurips.cc/paper/2014/hash/1f1baa5b8edac74eb4eaa329f14a0361-Abstract.html)| [Code](https://github.com/dineshj1/UnreliableAttributes)      |
 | HAP                       | CVPR2015    | [PDF](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Huang_Learning_Hypergraph-Regularized_Attribute_2015_CVPR_paper.html) | [Link](#)      |
 | SJE                       | CVPR2015    | [PDF](https://openaccess.thecvf.com/content_cvpr_2015/html/Akata_Evaluation_of_Output_2015_CVPR_paper.html)       | [Link](#)      |
 | ESZSL                     | ML2015      | [PDF](https://proceedings.mlr.press/v37/romera-paredes15.html)       | [Link](#)      |
-| SSE                       | CVPR2015    | [PDF](https://www.cv-foundation.org/openaccess/content_iccv_2015/html/Zhang_Zero-Shot_Learning_via_ICCV_2015_paper.html)       | [Link](#)      |
-| SYNC                      | CVPR2016    | [PDF](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Changpinyo_Synthesized_Classifiers_for_CVPR_2016_paper.html)       | [Link](#)      |
+| SSE                       | ICCV2015    | [PDF](https://www.cv-foundation.org/openaccess/content_iccv_2015/html/Zhang_Zero-Shot_Learning_via_ICCV_2015_paper.html)       | [Code](https://github.com/Zhang-VISLab/Zero-Shot-Learning-via-Semantic-Similarity-Embedding)|
+| SYNC                      | CVPR2016    | [PDF](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Changpinyo_Synthesized_Classifiers_for_CVPR_2016_paper.html)       | [Code](https://github.com/pujols/Zero-shot-learning-journal)      |
 | LATEM                     | CVPR2016    | [PDF](https://openaccess.thecvf.com/content_cvpr_2016/html/Xian_Latent_Embeddings_for_CVPR_2016_paper.html)       | [Link](#)      |
-| SAE                       | CVPR2017    | [PDF](https://openaccess.thecvf.com/content_cvpr_2017/html/Kodirov_Semantic_Autoencoder_for_CVPR_2017_paper.html)       | [Link](#)      |
-| RN                        | CVPR2018    | [PDF](https://openaccess.thecvf.com/content_cvpr_2018/html/Sung_Learning_to_Compare_CVPR_2018_paper.html)       | [Link](#)      |
+| SAE                       | CVPR2017    | [PDF](https://openaccess.thecvf.com/content_cvpr_2017/html/Kodirov_Semantic_Autoencoder_for_CVPR_2017_paper.html)       | [Code](https://github.com/mvp18/Popular-ZSL-Algorithms)      |
+| RN                        | CVPR2018    | [PDF](https://openaccess.thecvf.com/content_cvpr_2018/html/Sung_Learning_to_Compare_CVPR_2018_paper.html)       | [Code](https://github.com/floodsung/LearningToCompare_FSL)      |
 | TVN                       | TIP2018     | [PDF](https://ieeexplore.ieee.org/abstract/document/8464092)       | [Link](#)      |
 | DLF                       | CVPR2019    | [PDF](https://openaccess.thecvf.com/content_CVPR_2019/html/Tong_Hierarchical_Disentanglement_of_Discriminative_Latent_Features_for_Zero-Shot_Learning_CVPR_2019_paper.html)       | [Link](#)      |
-| AREN                      | CVPR2019    | [PDF](https://openaccess.thecvf.com/content_CVPR_2019/html/Xie_Attentive_Region_Embedding_Network_for_Zero-Shot_Learning_CVPR_2019_paper.html)       | [Link](#)      |
-| DAZLE                     | CVPR2020    | [PDF](https://openaccess.thecvf.com/content_CVPR_2020/html/Huynh_Fine-Grained_Generalized_Zero-Shot_Learning_via_Dense_Attribute-Based_Attention_CVPR_2020_paper.html) | [Link](#)      |
+| AREN                      | CVPR2019    | [PDF](https://openaccess.thecvf.com/content_CVPR_2019/html/Xie_Attentive_Region_Embedding_Network_for_Zero-Shot_Learning_CVPR_2019_paper.html)       | [Code](https://github.com/gsx0/Attentive-Region-Embedding-Network-for-Zero-shot-Learning)|
+| DAZLE                     | CVPR2020    | [PDF](https://openaccess.thecvf.com/content_CVPR_2020/html/Huynh_Fine-Grained_Generalized_Zero-Shot_Learning_via_Dense_Attribute-Based_Attention_CVPR_2020_paper.html) | [Code](https://github.com/hbdat/cvpr20_DAZLE)      |
 | ALS                       | TIP2020     | [PDF](https://ieeexplore.ieee.org/abstract/document/9068500)       | [Link](#)      |
 | TEDE                      | TCSVT2020   | [PDF](https://ieeexplore.ieee.org/abstract/document/9051798)       | [Link](#)      |
 | ZIC-LDM                   | Sensors2021  | [PDF](https://www.mdpi.com/1424-8220/21/9/3241)      | [Link](#)      |
@@ -57,7 +57,7 @@ Below is a summary of commonly used datasets for traditional/generalized zero-sh
 | f-CLSWGAN                   | CVPR2018    | [PDF](https://openaccess.thecvf.com/content_cvpr_2018/html/Xian_Feature_Generating_Networks_CVPR_2018_paper.html)       | [Link](#)      |
 | c-CLSWGAN                   | ECCV2018    | [PDF](https://openaccess.thecvf.com/content_ECCV_2018/html/RAFAEL_FELIX_Multi-modal_Cycle-consistent_Generalized_ECCV_2018_paper.html)       | [Code](https://github.com/rfelixmg/frwgan-eccv18)      |
 | LisGAN                    | CVPR2019    | [PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Leveraging_the_Invariant_Side_of_Generative_Zero-Shot_Learning_CVPR_2019_paper.pdf)       | [Code](https://github.com/lijin118/LisGAN)      |
-| F-VAEGAN-D2                   | CVPR2019    | [PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xian_F-VAEGAN-D2_A_Feature_Generating_Framework_for_Any-Shot_Learning_CVPR_2019_paper.pdf)       |      |
+| F-VAEGAN-D2                   | CVPR2019    | [PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xian_F-VAEGAN-D2_A_Feature_Generating_Framework_for_Any-Shot_Learning_CVPR_2019_paper.pdf)       |   [Link](#)   |
 | TF-VAEGAN                     | ECCV2020    | [PDF](https://link.springer.com/chapter/10.1007/978-3-030-58542-6_29)       | [Code](https://github.com/akshitac8/tfvaegan)      |
 | E-PGN                     | CVPR2020    | [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yu_Episode-Based_Prototype_Generating_Network_for_Zero-Shot_Learning_CVPR_2020_paper.pdf)       | [Link](#)      |
 | IZF                       | ECCV2020    | [PDF](https://link.springer.com/chapter/10.1007/978-3-030-58517-4_36)       | [Code](https://github.com/miguelvalente/Invertible-Zero-Shot-Recognition-Flows)      |
