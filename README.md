@@ -16,9 +16,9 @@
 | **Number of attribute labels per class**  | 85      | 85       | 64      | 102     | 312     |
 | **Dataset Links**                         | [AWA](https://cvml.ist.ac.at/AwA/) | [AWA2](https://cvml.ist.ac.at/AwA/) | [aPY](https://vision.cs.uiuc.edu/attributes/) | [SUN](http://cs.brown.edu/~gmpatter/sunattributes.html) | [CUB](https://www.vision.caltech.edu/datasets/cub_200_2011/) |
 
-**Below is a compilation of the papers and code addresses for mainstream zero-shot image classification methods**
-## Models
 
+## Models
+**Below is a compilation of the papers and code addresses for mainstream traditional / generalized zero-shot image classification models**
 | **Models**                | **Source**  | **Paper Link** | **Code Link** |
 |---------------------------|-------------|-----------------|----------------|
 | DAP                       | CVPR2009    |[PDF](https://ieeexplore.ieee.org/abstract/document/5206594)| Not avaliable |
@@ -75,12 +75,38 @@
 | ESA                       | ICASSP2023  | [PDF](https://arxiv.org/abs/2303.09849)       | [Code](https://github.com/mrflogs/icassp23)      |
 
 
+# Compositional Zero-shot Image Classification
+
+## Datasets
+**Below is a summary of commonly used datasets for Compositional zero-shot classification.**
 
 
+| **Datasets**            | **MIT-States** | **UT-Zappos50k** | **Clothing 16k** | **C-GQA** |
+|-------------------------|----------------|-------------------|------------------|-----------|
+| **Number of Images**    | 53,753         | 50,025           | ~16,000         | ~38,000   |
+| **Number of Objects**   | 245            | 12               | 8               | 870       |
+| **Number of Attributes**| 115            | 16               | 9               | 453       |
+| **Total Compositional Space** | 28,175   | 192             | 72              | 394,110   |
+| **Number of Seen Pairs**| 1,262          | 83               | 18              | 6,963     |
+| **Dataset Links**       | [MIT-States](https://web.mit.edu/phillipi/Public/states_and_transformations/index.html) | [UT-Zappos50k](https://vision.cs.utexas.edu/projects/finegrained/utzap50k/) | [Clothing 16k](https://drive.google.com/drive/folders/1ky5BvTFrMkPBdAWixHFGLdcfJHfu5e9_) | [C-GQA](https://github.com/ExplainableML/czsl) |
 
-
-
-
+## Models
+**Below is a compilation of the papers and code addresses for mainstream Compositional image classification models**
+| **Models**                | **Source**  | **Paper Link** | **Code Link** |
+|---------------------------|-------------|-----------------|----------------|
+| LE+                       | CVPR2017    |[PDF](https://www.cs.cmu.edu/~imisra/data/composing_cvpr17.pdf)| [Code](https://github.com/imisra/composing_cvpr17) |
+| AttrAsOp                  | ECCV 2018   | [PDF](https://openaccess.thecvf.com/content_ECCV_2018/html/Tushar_Nagarajan_Attributes_as_Operators_ECCV_2018_paper.html)|[Code](https://github.com/Tushar-N/attributes-as-operators)|
+| TMN                       | CVPR2019 | [PDF](https://arxiv.org/abs/1905.05908)  | [Code](https://github.com/facebookresearch/taskmodularnets)      |
+| SymNet                       | CVPR2020    | [PDF](https://arxiv.org/abs/2004.00587)      | [Code](https://github.com/DirtyHarryLYL/SymNet)      |
+| CGE                       | CVPR2021   |[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Naeem_Learning_Graph_Embeddings_for_Compositional_Zero-Shot_Learning_CVPR_2021_paper.pdf) | [Code](https://github.com/ExplainableML/czsl)      |
+|CompCos                   | CVPR2021| [PDF](https://arxiv.org/abs/2101.12609)| [Code](https://github.com/ExplainableML/czsl)      |
+| SCEN                       | CVPR2022    | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Siamese_Contrastive_Embedding_Network_for_Compositional_Zero-Shot_Learning_CVPR_2022_paper.pdf) | [Code](https://github.com/XDUxyLi/SCEN-master)  |
+| OADis                       | CVPR2022    | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Saini_Disentangling_Visual_Embeddings_for_Attributes_and_Objects_CVPR_2022_paper.pdf)       | [Code](https://github.com/nirat1606/OADis)   |
+| CLIP                     | ICML2021     | [PDF](https://arxiv.org/abs/2103.00020)       | [Code](https://github.com/ExcelsiorCJH/CLIP)     |
+| CoOP                       | IJCV2022    | [PDF](https://arxiv.org/abs/2109.01134)       | [Code](https://github.com/KaiyangZhou/CoOp)|
+| ADE                 | CVPR2023 | [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Hao_Learning_Attention_As_Disentangler_for_Compositional_Zero-Shot_Learning_CVPR_2023_paper.pdf)       | [Code](https://github.com/haoosz/ade-czsl)      |
+| CSP                     | ICLR2023    | [PDF](https://arxiv.org/abs/2204.03574)       | [Code](https://github.com/BatsResearch/csp)      |
+| GIPCOL                     | WACV2024    | [PDF](https://openaccess.thecvf.com/content/WACV2024/papers/Xu_GIPCOL_Graph-Injected_Soft_Prompting_for_Compositional_Zero-Shot_Learning_WACV_2024_paper.pdf)       | [Code](https://github.com/HLR/GIPCOL)      |
 
 
 
