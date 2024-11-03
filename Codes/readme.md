@@ -54,3 +54,22 @@
 | CC-ZSL                    | TCSVT2023   | [PDF](https://ieeexplore.ieee.org/document/10040702)       | [Code](https://github.com/KORIYN/CC-ZSL)      |
 | I2mvformer                | CVPR2023    | [PDF](https://openaccess.thecvf.com/content/CVPR2023/html/Naeem_I2MVFormer_Large_Language_Model_Generated_Multi-View_Document_Supervision_for_Zero-Shot_CVPR_2023_paper.html)       | [Code](https://github.com/ferjad/I2DFormer)|
 | ESA                       | ICASSP2023  | [PDF](https://arxiv.org/abs/2303.09849)       | [Code](https://github.com/mrflogs/icassp23)      |
+
+**Below is a compilation of the papers and code addresses for mainstream Compositional image classification models**
+| **Models**                | **Source**  | **Paper Link** | **Code Link** |
+|---------------------------|-------------|-----------------|----------------|
+| LE+                       | CVPR2017    |[PDF](https://www.cs.cmu.edu/~imisra/data/composing_cvpr17.pdf)| [Code](https://github.com/imisra/composing_cvpr17) |
+| AttrAsOp                  | ECCV 2018   | [PDF](https://openaccess.thecvf.com/content_ECCV_2018/html/Tushar_Nagarajan_Attributes_as_Operators_ECCV_2018_paper.html)|[Code](https://github.com/Tushar-N/attributes-as-operators)|
+| TMN                       | CVPR2019 | [PDF](https://arxiv.org/abs/1905.05908)  | [Code](https://github.com/facebookresearch/taskmodularnets)      |
+| SymNet                       | CVPR2020    | [PDF](https://arxiv.org/abs/2004.00587)      | [Code](https://github.com/DirtyHarryLYL/SymNet)      |
+| CGE                       | CVPR2021   |[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Naeem_Learning_Graph_Embeddings_for_Compositional_Zero-Shot_Learning_CVPR_2021_paper.pdf) | [Code](https://github.com/ExplainableML/czsl)      |
+|CompCos                   | CVPR2021| [PDF](https://arxiv.org/abs/2101.12609)| [Code](https://github.com/ExplainableML/czsl)      |
+| SCEN                       | CVPR2022    | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Siamese_Contrastive_Embedding_Network_for_Compositional_Zero-Shot_Learning_CVPR_2022_paper.pdf) | [Code](https://github.com/XDUxyLi/SCEN-master)  |
+| OADis                       | CVPR2022    | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Saini_Disentangling_Visual_Embeddings_for_Attributes_and_Objects_CVPR_2022_paper.pdf)       | [Code](https://github.com/nirat1606/OADis)   |
+| CLIP                     | ICML2021     | [PDF](https://arxiv.org/abs/2103.00020)       | [Code](https://github.com/ExcelsiorCJH/CLIP)     |
+| CoOP                       | IJCV2022    | [PDF](https://arxiv.org/abs/2109.01134)       | [Code](https://github.com/KaiyangZhou/CoOp)|
+| ADE                 | CVPR2023 | [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Hao_Learning_Attention_As_Disentangler_for_Compositional_Zero-Shot_Learning_CVPR_2023_paper.pdf)       | [Code](https://github.com/haoosz/ade-czsl)      |
+| CSP                     | ICLR2023    | [PDF](https://arxiv.org/abs/2204.03574)       | [Code](https://github.com/BatsResearch/csp)      |
+| GIPCOL                     | WACV2024    | [PDF](https://openaccess.thecvf.com/content/WACV2024/papers/Xu_GIPCOL_Graph-Injected_Soft_Prompting_for_Compositional_Zero-Shot_Learning_WACV_2024_paper.pdf)       | [Code](https://github.com/HLR/GIPCOL)      |
+
+
