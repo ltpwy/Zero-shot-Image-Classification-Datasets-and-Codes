@@ -1,4 +1,4 @@
-## Models
+## Traditional/Generalized Zero-shot image classification Models
 **Below is a compilation of the papers and code addresses for mainstream traditional / generalized zero-shot image classification models**
 | **Models**                | **Source**  | **Paper Link** | **Code Link** |
 |---------------------------|-------------|-----------------|----------------|
@@ -55,6 +55,8 @@
 | I2mvformer                | CVPR2023    | [PDF](https://openaccess.thecvf.com/content/CVPR2023/html/Naeem_I2MVFormer_Large_Language_Model_Generated_Multi-View_Document_Supervision_for_Zero-Shot_CVPR_2023_paper.html)       | [Code](https://github.com/ferjad/I2DFormer)|
 | ESA                       | ICASSP2023  | [PDF](https://arxiv.org/abs/2303.09849)       | [Code](https://github.com/mrflogs/icassp23)      |
 
+
+## Compositional Zero-shot image classification Models
 **Below is a compilation of the papers and code addresses for mainstream Compositional image classification models**
 | **Models**                | **Source**  | **Paper Link** | **Code Link** |
 |---------------------------|-------------|-----------------|----------------|
